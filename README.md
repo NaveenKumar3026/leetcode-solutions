@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0001-two-sum) |
+| [0290-word-pattern](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0290-word-pattern) |
 ## Linked List
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0495-teemo-attacking) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
