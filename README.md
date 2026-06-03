@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0520-detect-capital](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0520-detect-capital) |
 ## Tree
 |  |
 | ------- |
