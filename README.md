@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0495-teemo-attacking) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
@@ -99,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
