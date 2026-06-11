@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0492-construct-the-rectangle](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
