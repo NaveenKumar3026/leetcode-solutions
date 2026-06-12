@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
