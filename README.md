@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0090-subsets-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -154,8 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
