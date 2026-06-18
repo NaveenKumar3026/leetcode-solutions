@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0001-two-sum) |
+| [0040-combination-sum-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0077-combinations) |
