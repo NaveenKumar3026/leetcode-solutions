@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
