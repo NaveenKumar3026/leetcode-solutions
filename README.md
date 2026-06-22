@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0134-gas-station) |
 | [0204-count-primes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -131,10 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0506-relative-ranks) |
 ## Dynamic Programming
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0204-count-primes) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
