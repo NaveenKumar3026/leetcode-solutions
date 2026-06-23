@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0045-jump-game-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
