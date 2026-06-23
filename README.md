@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0045-jump-game-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
