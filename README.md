@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0299-bulls-and-cows) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
