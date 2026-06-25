@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0204-count-primes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0492-construct-the-rectangle](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -286,4 +288,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
