@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Combinatorics
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0397-integer-replacement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Greedy
 |  |
 | ------- |
