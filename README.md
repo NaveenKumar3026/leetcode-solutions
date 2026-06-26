@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0384-shuffle-an-array) |
+| [0400-nth-digit](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0400-nth-digit) |
 | [0492-construct-the-rectangle](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0400-nth-digit) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
