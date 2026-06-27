@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0178-rank-scores) |
+| [0595-big-countries](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0607-sales-person) |
 ## Trie
 |  |
