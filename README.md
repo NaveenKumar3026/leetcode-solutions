@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2032-two-out-of-three](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0398-random-pick-index](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0398-random-pick-index) |
+| [0594-longest-harmonious-subsequence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2032-two-out-of-three](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2032-two-out-of-three) |
 ## Linked List
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0299-bulls-and-cows) |
+| [0594-longest-harmonious-subsequence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
