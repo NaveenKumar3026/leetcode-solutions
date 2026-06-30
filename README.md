@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0482-license-key-formatting) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Two Pointers
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0397-integer-replacement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0402-remove-k-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
