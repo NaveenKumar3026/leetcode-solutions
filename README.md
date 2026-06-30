@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0397-integer-replacement) |
+| [0416-partition-equal-subset-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
