@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0598-range-addition-ii) |
 ## Recursion
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
