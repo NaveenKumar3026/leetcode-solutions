@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0406-queue-reconstruction-by-height](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0416-partition-equal-subset-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0435-non-overlapping-intervals](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 ## Memoization
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0397-integer-replacement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
