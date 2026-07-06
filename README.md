@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0204-count-primes) |
+| [0279-perfect-squares](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0372-super-pow](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0139-word-break) |
+| [0279-perfect-squares](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0396-rotate-function) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 ## Randomized
