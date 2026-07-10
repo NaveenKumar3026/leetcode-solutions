@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0139-word-break) |
+| [0187-repeated-dna-sequences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0290-word-pattern) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0139-word-break) |
+| [0187-repeated-dna-sequences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0290-word-pattern) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0401-binary-watch) |
@@ -472,4 +476,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
