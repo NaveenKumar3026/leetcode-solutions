@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0416-partition-equal-subset-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0495-teemo-attacking) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0474-ones-and-zeroes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0541-reverse-string-ii) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
