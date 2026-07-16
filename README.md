@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0705-design-hashset](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0705-design-hashset](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
