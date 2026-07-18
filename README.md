@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0692-top-k-frequent-words](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0706-design-hashmap) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0661-image-smoother](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 ## Backtracking
 |  |
