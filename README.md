@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0598-range-addition-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0788-rotated-digits](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0788-rotated-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0746-min-cost-climbing-stairs](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0788-rotated-digits) |
 ## Memoization
 |  |
 | ------- |
