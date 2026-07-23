@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0526-beautiful-arrangement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
+| [0797-all-paths-from-source-to-target](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Combinatorics
 |  |
 | ------- |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0797-all-paths-from-source-to-target](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Randomized
 |  |
 | ------- |
@@ -547,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0705-design-hashset](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0706-design-hashmap) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
