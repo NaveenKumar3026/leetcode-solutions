@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Tree
 |  |
 | ------- |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
