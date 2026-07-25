@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0377-combination-sum-iv) |
