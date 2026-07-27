@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0365-water-and-jug-problem](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0372-super-pow](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0365-water-and-jug-problem](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0449-serialize-and-deserialize-bst](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0733-flood-fill](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
