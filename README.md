@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0382-linked-list-random-node) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0707-design-linked-list) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0365-water-and-jug-problem](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -585,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
