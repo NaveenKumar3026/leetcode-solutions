@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 ## Tree
 |  |
 | ------- |
