@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [2032-two-out-of-three](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3388-count-beautiful-splits-in-an-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/3388-count-beautiful-splits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
+| [3388-count-beautiful-splits-in-an-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/3388-count-beautiful-splits-in-an-array) |
 ## Memoization
 |  |
 | ------- |
