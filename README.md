@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
+| [0477-total-hamming-distance](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0495-teemo-attacking) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0400-nth-digit) |
+| [0477-total-hamming-distance](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0507-perfect-number) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
