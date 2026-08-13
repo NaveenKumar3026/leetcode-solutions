@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0279-perfect-squares) |
