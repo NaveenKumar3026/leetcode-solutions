@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [2032-two-out-of-three](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2401-longest-nice-subarray](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2401-longest-nice-subarray) |
 | [3046-split-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/3046-split-the-array) |
 | [3388-count-beautiful-splits-in-an-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/3388-count-beautiful-splits-in-an-array) |
 ## Hash Table
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0978-longest-turbulent-subarray](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0978-longest-turbulent-subarray) |
+| [2401-longest-nice-subarray](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2401-longest-nice-subarray) |
 ## Design
 |  |
 | ------- |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2032-two-out-of-three](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2032-two-out-of-three) |
+| [2401-longest-nice-subarray](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2401-longest-nice-subarray) |
 ## Greedy
 |  |
 | ------- |
