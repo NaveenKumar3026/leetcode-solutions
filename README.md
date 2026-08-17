@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0897-increasing-order-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1971-find-if-path-exists-in-graph](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Randomized
 |  |
 | ------- |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1971-find-if-path-exists-in-graph](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Geometry
 |  |
 | ------- |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Doubly-Linked List
 |  |
 | ------- |
