@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0654-maximum-binary-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0692-top-k-frequent-words](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Two Pointers
 |  |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0372-super-pow) |
+| [0654-maximum-binary-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -618,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -684,4 +690,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
