@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0045-jump-game-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
