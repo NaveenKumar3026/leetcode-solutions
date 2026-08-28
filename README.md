@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0139-word-break) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0097-interleaving-string) |
