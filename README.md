@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0372-super-pow](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0372-super-pow) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0227-basic-calculator-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0299-bulls-and-cows) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
