@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0222-count-complete-tree-nodes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0222-count-complete-tree-nodes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0397-integer-replacement) |
