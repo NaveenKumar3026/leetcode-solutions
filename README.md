@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0275-h-index-ii) |
+| [0284-peeking-iterator](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0284-peeking-iterator) |
 | [0289-game-of-life](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0284-peeking-iterator](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -792,4 +794,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0337-house-robber-iii) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
