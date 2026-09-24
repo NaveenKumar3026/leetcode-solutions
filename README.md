@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0290-word-pattern) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0365-water-and-jug-problem](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0692-top-k-frequent-words](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 ## Enumeration
 |  |
