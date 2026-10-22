@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0888-fair-candy-swap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0819-most-common-word) |
+| [0888-fair-candy-swap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0997-find-the-town-judge](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [2032-two-out-of-three](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [3046-split-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/3046-split-the-array) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0888-fair-candy-swap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0897-increasing-order-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0888-fair-candy-swap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
