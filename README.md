@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0897-increasing-order-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Sliding Window
 |  |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0641-design-circular-deque](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0641-design-circular-deque) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0707-design-linked-list) |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -882,4 +887,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
