@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0860-lemonade-change](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Divide and Conquer
 |  |
 | ------- |
