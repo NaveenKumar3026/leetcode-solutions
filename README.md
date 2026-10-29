@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1470-shuffle-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1534-count-good-triplets](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1534-count-good-triplets) |
+| [1672-richest-customer-wealth](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2032-two-out-of-three](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
+| [1672-richest-customer-wealth](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Backtracking
 |  |
 | ------- |
