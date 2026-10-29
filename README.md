@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1534-count-good-triplets](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1534-count-good-triplets) |
+| [1929-concatenation-of-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2032-two-out-of-three](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2401-longest-nice-subarray](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2401-longest-nice-subarray) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0999-available-captures-for-rook](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
+| [1929-concatenation-of-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
 |  |
