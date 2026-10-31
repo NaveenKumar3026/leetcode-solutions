@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2032-two-out-of-three) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0997-find-the-town-judge](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1512-number-of-good-pairs](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [3046-split-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/3046-split-the-array) |
 ## Linked List
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0824-goat-latin) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Tree
 |  |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2401-longest-nice-subarray](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2401-longest-nice-subarray) |
 ## Greedy
@@ -753,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3046-split-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/3046-split-the-array) |
 ## Breadth-First Search
 |  |
