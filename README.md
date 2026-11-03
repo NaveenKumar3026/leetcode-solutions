@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0495-teemo-attacking](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0498-diagonal-traverse) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0491-non-decreasing-subsequences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0401-binary-watch) |
+| [0491-non-decreasing-subsequences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0797-all-paths-from-source-to-target](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Combinatorics
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
