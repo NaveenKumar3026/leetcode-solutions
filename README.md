@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0482-license-key-formatting) |
+| [0516-longest-palindromic-subsequence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0746-min-cost-climbing-stairs](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0788-rotated-digits) |
