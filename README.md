@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0482-license-key-formatting) |
 | [0516-longest-palindromic-subsequence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0520-detect-capital) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0443-string-compression) |
+| [0481-magical-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
