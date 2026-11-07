@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0519-random-flip-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0519-random-flip-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0598-range-addition-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0598-range-addition-ii) |
@@ -799,12 +801,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0470-implement-rand10-using-rand7) |
+| [0519-random-flip-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0519-random-flip-matrix) |
 | [0528-random-pick-with-weight](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0398-random-pick-index) |
+| [0519-random-flip-matrix](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0519-random-flip-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
