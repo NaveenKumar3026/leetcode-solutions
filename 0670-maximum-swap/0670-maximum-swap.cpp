@@ -1,0 +1,28 @@
+class Solution {
+public:
+    int maximumSwap(int num) {
+         string s = to_string(num);
+
+        int last[10];
+
+        for (int i = 0; i < 10; i++)
+            last[i] = -1;
+
+        // Store the last occurrence of each digit
+        for (int i = 0; i < s.size(); i++) {
+            last[s[i] - '0'] = i;
+        }
+
+        // Find a larger digit to swap with
+        for (int i = 0; i < s.size(); i++) {
+            for (int d = 9; d > s[i] - '0'; d--) {
+                if (last[d] > i) {
+                    swap(s[i], s[last[d]]);
+                    return stoi(s);
+                }
+            }
+        }
+
+        return num;
+    }
+};
