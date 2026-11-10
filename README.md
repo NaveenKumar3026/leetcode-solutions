@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2401-longest-nice-subarray](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2401-longest-nice-subarray) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3046-split-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/3046-split-the-array) |
 | [3388-count-beautiful-splits-in-an-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/3388-count-beautiful-splits-in-an-array) |
 ## Hash Table
