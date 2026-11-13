@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0824-goat-latin) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Tree
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1451-rearrange-words-in-a-sentence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
