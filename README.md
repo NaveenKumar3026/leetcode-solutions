@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0824-goat-latin) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Tree
 |  |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -727,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0654-maximum-binary-tree](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -770,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting
 |  |
 | ------- |
