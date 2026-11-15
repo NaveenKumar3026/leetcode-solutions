@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2413-smallest-even-multiple](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 ## Recursion
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0999-available-captures-for-rook](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
+| [1518-water-bottles](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
