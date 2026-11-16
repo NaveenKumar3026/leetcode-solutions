@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Tree
 |  |
 | ------- |
