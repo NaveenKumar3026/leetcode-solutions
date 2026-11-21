@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1323-maximum-69-number) |
 ## Divide and Conquer
 |  |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0819-most-common-word) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2404-most-frequent-even-element](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
