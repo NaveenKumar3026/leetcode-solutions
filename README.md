@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
+| [1207-unique-number-of-occurrences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1470-shuffle-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0997-find-the-town-judge](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1207-unique-number-of-occurrences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2032-two-out-of-three](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2032-two-out-of-three) |
