@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0999-available-captures-for-rook) |
 | [1207-unique-number-of-occurrences](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1470-shuffle-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1534-count-good-triplets) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0989-add-to-array-form-of-integer](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-largest-triangle-area](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Union-Find
 |  |
 | ------- |
