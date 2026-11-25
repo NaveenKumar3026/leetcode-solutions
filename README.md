@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1952-three-divisors](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 ## Recursion
 |  |
@@ -782,10 +783,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1534-count-good-triplets) |
+| [1952-three-divisors](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 ## Quickselect
 |  |
@@ -966,4 +969,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
