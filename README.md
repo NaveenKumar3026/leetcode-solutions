@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-positions-of-large-groups](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/0830-positions-of-large-groups) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NaveenKumar3026/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
